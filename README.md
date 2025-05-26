@@ -1,4 +1,4 @@
-# 🛠️ DevOps & Cloud Projects – Chris Samugana
+# 🛠️ Cloud Projects – Chris Samugana
 
 Welcome to my **projects portfolio repository**, where I showcase hands-on labs and practical implementations using AWS and DevOps tools. These projects reflect my commitment to continuous learning, automation, and building resilient infrastructure in the cloud.
 
