@@ -15,23 +15,6 @@ This repository documents a series of completed AWS hands-on labs and projects, 
 - **Analytics**: Amazon Athena
 - **DNS & Access Control**: Route 53, Custom Headers via CloudFront
 
-## ✅ Completed Hands-On Labs
-
-| Project Title                                                                                         | Duration |
-|--------------------------------------------------------------------------------------------------------|----------|
-| Creating and Assuming an Administrator AWS IAM Role                                                   | 30m      |
-| Creating a CloudTrail Trail and EventBridge Alert for Console Sign-Ins                                | 30m      |
-| Standing Up an Apache Web Server EC2 Instance and Sending Logs to Amazon CloudWatch                   | 45m      |
-| Creating a Custom AMI and Deploying an Auto Scaling Group behind an Application Load Balancer         | 45m      |
-| Simulating Recovery of Deleted Files in S3 Using Versioning                                           | 15m      |
-| Assigning Static IPs to NLBs with ALB Target Groups                                                   | 45m      |
-| Deploying a Serverless Application Using AWS Lambda, API Gateway, and DynamoDB                        | 45m      |
-| Blue/Green Deployments with Elastic Beanstalk                                                         | 45m      |
-| Standing Up an Amazon Aurora Database with an Automatically Rotated Password Using Secrets Manager    | 45m      |
-| Sending VPC Flow Logs to S3 and Parsing the Logs via Amazon Athena                                    | 45m      |
-| Using an ALB behind Amazon CloudFront and Using a Custom HTTP Header to Control Access                | 45m      |
-| Hosting a WordPress Application on ECS Fargate with RDS, Parameter Store, and Secrets Manager         | 45m      |
-
 ## 🔍 Repository Structure
 
 Each folder within this repository contains:
@@ -49,7 +32,7 @@ Each folder within this repository contains:
 
 ---
 
-Feel free to explore the individual project folders for implementation specifics. Contributions or suggestions for improvement are always welcome!
+Feel free to explore the individual project folders for implementation specifics. Contributions or suggestions are always welcome!
 
 
 ---
