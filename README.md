@@ -11,7 +11,7 @@ This repository documents a series of completed AWS hands-on labs and projects, 
 - **Networking**: VPC, NLB, ALB, CloudFront
 - **Monitoring & Logging**: CloudWatch, CloudTrail, VPC Flow Logs, Athena
 - **Security**: IAM, Secrets Manager, Systems Manager Parameter Store
-- **Automation & Deployment**: Elastic Beanstalk, CloudFormation, API Gateway
+- **Automation & Deployment**: Elastic Beanstalk, CloudFormation, Terraform, API Gateway
 - **Containerization & Development**: Docker, ECS, ECR, Cloud9
 - **Analytics**: Amazon Athena
 - **DNS & Access Control**: Route 53, Custom Headers via CloudFront
