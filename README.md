@@ -2,7 +2,7 @@
 
 # AWS Cloud Projects Overview
 
-This repository documents a series of completed AWS hands-on labs and projects, showcasing practical implementations of cloud infrastructure, serverless architectures, containerization, load balancing strategies, logging, monitoring, and secure application deployment. Each project is structured to reflect real-world AWS usage scenarios, demonstrating proficiency across a broad set of AWS services.
+This repository documents a series of completed AWS hands-on labs and projects, showcasing practical implementations of cloud infrastructure, serverless architectures, containerization, load balancing strategies, logging, monitoring, and secure application deployment. Each project is structured to reflect real world AWS usage scenarios, demonstrating proficiency across a broad set of AWS services.
 
 ## 🛠️ Tools & Services Used
 
@@ -12,6 +12,7 @@ This repository documents a series of completed AWS hands-on labs and projects, 
 - **Monitoring & Logging**: CloudWatch, CloudTrail, VPC Flow Logs, Athena
 - **Security**: IAM, Secrets Manager, Systems Manager Parameter Store
 - **Automation & Deployment**: Elastic Beanstalk, CloudFormation, API Gateway
+- **Containerization & Development**: Docker, ECS, ECR, Cloud9
 - **Analytics**: Amazon Athena
 - **DNS & Access Control**: Route 53, Custom Headers via CloudFront
 
